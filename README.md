@@ -9,7 +9,7 @@ Our Mission: **Boost productivity, reduce digital clutter, and improve digital w
 
 ## 📖 Table of Contents
 
-- [About](#about)
+- [About](#%EF%B8%8F-about)
 - [Features](#features)
   - [Email Management](#email-management)
   - [Social Media](#social-media)
@@ -25,7 +25,7 @@ Our Mission: **Boost productivity, reduce digital clutter, and improve digital w
 - [Team Members](#team-members)
 - [Future Scope](#future-scope)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#%EF%B8%8F-license)
 
 ---
 
