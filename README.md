@@ -17,7 +17,7 @@ Our Mission: **Boost productivity, reduce digital clutter, and improve digital w
   - [Media Management](#media-management)
   - [Security & Privacy](#security--privacy)
   - [Wellness & Insights](#wellness--insights)
-- [Dashboards](#dashboards--project-structure)
+- [Dashboards & Project Structure](#dashboards--project-structure)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -216,9 +216,9 @@ TWITTER_API_KEY=your_twitter_api_key
 
 | Name             | Role                        | GitHub                |
 |------------------|-----------------------------|-----------------------|
-| Aaditya Kapoor   | Team Lead & Frontend Dev    | [@aaditya-kapoor](https://github.com/aaditya-kapoor) |
+| Aaditya Kapoor   | Team Lead & Frontend Dev    | [@aaditya-kapoor](https://github.com/aaditya2107) |
 | Anshul Kushwaha  | Documentation & Presentation| [@anshul-kushwaha](https://github.com/anshul-kushwaha) |
-| Aachal Patil     | UI/UX Designer              | [@aachal-patil](https://github.com/aachal-patil) |
+| Aachal Patil     | UI/UX Designer              | [@aachal-patil](https://github.com/aachalpatil0403) |
 | Archana Nair     | Backend Developer           | [@Archana7224](https://github.com/Archana7224) |
 
 ---
