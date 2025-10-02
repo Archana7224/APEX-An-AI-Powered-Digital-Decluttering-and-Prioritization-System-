@@ -1,205 +1,265 @@
-🤖 APEX - Assess, Prioritize, Execute, Xclude (exclude clutter)
+🤖 APEX
+Assess, Prioritize, Execute, Xclude
+Show Image
+Show Image
+Show Image
 
 A modern AI-powered digital decluttering prioritization system that helps users manage emails, social feeds, media, and notifications with intelligent prioritization, summarization, and cleanup features.
-Our goal is to boost productivity, reduce clutter, and improve digital well-being while ensuring security and privacy.
+
+Our Mission: Boost productivity, reduce digital clutter, and improve digital well-being while ensuring security and privacy.
 
 📖 Table of Contents
 
+About
+Features
+
+Email Management
+Social Media
+Twitter/X
+Media Management
+Security & Privacy
+Wellness & Insights
+
+
+Dashboards
+Tech Stack
+Installation
+Usage
+Screenshots
+Team Members
+Future Scope
+Contributing
+License
+
+
 📝 About
+APEX - Declutter Prioritization System is a smart productivity tool that integrates with multiple platforms including Gmail, Outlook, Instagram, Twitter (X), WhatsApp, and Gallery management.
+Using advanced AI, NLP, and smart automation, APEX helps users focus on what truly matters by:
 
-🚀 Features
-
-🗂 Dashboards & Project Structure
-
-🛠 Tech Stack
-
-⚙️ Installation
-
-💻 Usage
-
-📸 Screenshots
-
-👥 Team Members
-
-🌟 Future Scope
-
-🤝 Contributing
-
-📜 License
-
-
-📝 About
-
-Declutter Prioritization System is a smart productivity tool that integrates with platforms like Gmail, Outlook, Instagram, Twitter (X), WhatsApp, and Gallery.
-It uses AI, NLP, and smart automation to help users focus on what matters by:
-
-📌 Prioritizing urgent tasks/messages
-
-🗂 Organizing cluttered feeds & media
-
+📌 Prioritizing urgent tasks and messages
+🗂 Organizing cluttered feeds and media libraries
 🌱 Providing wellness insights for digital balance
+🔐 Ensuring top-notch security and privacy
+
 
 🚀 Features
 📩 Gmail & Outlook
 
-⚡ Intelligent Prioritization & Sentiment Analysis: Flag top-priority messages based on content, sender, and emotional tone.
+⚡ Intelligent Prioritization & Sentiment Analysis
+Flag top-priority messages based on content, sender reputation, and emotional tone analysis.
+📰 Email Summarization
+Condense long email threads and newsletters into concise, actionable summaries.
+🚫 Smart Unsubscribe & Block Suggestions
+Proactively manage junk and promotional emails with AI-powered recommendations.
+🧩 Thread Grouping & Conversation Clustering
+Automatically group related emails (e.g., "Project Submissions," "Order Confirmations").
+📎 Attachment Management & Cleanup
+Detect duplicate files, large attachments, and suggest cloud storage solutions.
+🛡 Phishing & Malicious Link Detection
+Protect against malware, phishing attempts, and suspicious links.
+🗓 Daily/Weekly Digest
+Receive summarized overviews of top-priority emails, deadlines, and upcoming meetings.
 
-📰 Email Summarization: Condense long threads/newsletters into concise summaries.
-
-🚫 Smart Unsubscribe & Block Suggestions: Proactively manage junk/promotional emails.
-
-🧩 Thread Grouping & Conversation Clustering: Automatically group related emails (e.g., “Project Submissions,” “Orders”).
-
-📎 Attachment Management & Cleanup: Detect duplicates/large files; suggest cloud storage solutions.
-
-🛡 Phishing & Malicious Link Detection: Protect against malware and phishing threats.
-
-🗓 Daily/Weekly Digest: Summarized overview of top-priority emails, deadlines, and meetings.
 
 📸 Instagram
 
-📊 Content Diet Coach: Analyze consumed content types and generate a detailed time breakdown report.
+📊 Content Diet Coach
+Analyze consumed content types and generate detailed time breakdown reports.
+⏸ Digital Detox Recommendations
+Detect excessive scrolling patterns and suggest timed breaks for better mental health.
 
-⏸ Digital Detox Recommendations: Detect excessive scrolling and suggest timed pauses.
 
 🐦 X (Twitter)
 
-🎯 Intelligent Feed Curation: Prioritize feed content based on user engagement and relevance.
+🎯 Intelligent Feed Curation
+Prioritize feed content based on user engagement history and relevance scores.
+✍️ AI-Powered Thread Summarization
+Summarize long Twitter threads into actionable bullet points for quick consumption.
 
-✍️ AI-Powered Thread Summarization: Summarize long threads into actionable bullet points.
 
-🖼️ Gallery (WhatsApp/Downloads/Camera Roll)
+🖼 Gallery (WhatsApp/Downloads/Camera Roll)
 
-🗃 Media Organization & Cleanup: Automatically categorize images into screenshots, memes, receipts, selfies, or documents.
+🗃 Media Organization & Cleanup
+Automatically categorize images into screenshots, memes, receipts, selfies, or documents.
+💾 Space Optimization Suggestions
+Highlight duplicates, large files, or redundant downloads; suggest deletion or cloud backup.
+🔒 Smart Highlights Protection
+Protect important images like tickets, IDs, bills, and certificates from accidental deletion.
+🗑 Context-Aware Cleanup
+Set automated cleanup rules (e.g., delete old WhatsApp downloads after 30 days).
 
-💾 Space Optimization Suggestions: Highlight duplicates, large files, or redundant downloads; suggest deletion or cloud backup.
-
-🔒 Smart Highlights Protection: Protect important images like tickets, IDs, bills.
-
-🗑 Context-Aware Cleanup: Set automated cleanup rules (e.g., delete old WhatsApp downloads after 30 days).
 
 🔐 Security & Privacy
 
-🔑 End-to-End Encryption: All integrated data remains private and secure.
+🔑 End-to-End Encryption
+All integrated data remains private and secure with industry-standard encryption.
+🛡 JWT Authentication
+Secure login mechanism for managing multiple connected accounts.
 
-🛡 JWT Authentication: Secure login for multiple accounts.
 
 🌱 Wellness & Insights
 
-📈 Weekly Declutter Report: Shows time saved, junk cleared, and content usage patterns.
+📈 Weekly Declutter Report
+Track time saved, junk cleared, and content usage patterns with detailed analytics.
+
 
 🗂 Dashboards & Project Structure
 Dashboard Features
-
-📧 Email Dashboard: View Dashboard
- – Prioritized inbox, summarization panel, attachment cleanup, digest overview.
-
-📱 Social Dashboard: View Dashboard
- – Instagram/X feed analytics, thread summarization, content diet insights.
-
-🖼 Media Dashboard: View Dashboard
- – Gallery/WhatsApp media categorization, duplicate detection, smart highlight protection.
-
-📊 Wellness Dashboard: View Dashboard
- – Weekly/monthly digital usage insights, detox suggestions.
-
-🔐 Security Panel: View Dashboard
- – Phishing alerts, suspicious links, and account privacy overview.
-
+DashboardDescription📧 Email DashboardPrioritized inbox, summarization panel, attachment cleanup, digest overview📱 Social DashboardInstagram/X feed analytics, thread summarization, content diet insights🖼 Media DashboardGallery/WhatsApp media categorization, duplicate detection, smart highlight protection📊 Wellness DashboardWeekly/monthly digital usage insights, detox suggestions, productivity metrics🔐 Security PanelPhishing alerts, suspicious links detection, account privacy overview
 Project Structure
 declutter-prioritization/
 │
 ├─ backend/
-│   ├─ controllers/
-│   ├─ models/
-│   ├─ routes/
-│   ├─ utils/
-│   └─ server.js
+│   ├─ controllers/          # Business logic handlers
+│   ├─ models/               # Database schemas
+│   ├─ routes/               # API route definitions
+│   ├─ utils/                # Helper functions
+│   └─ server.js             # Express server entry point
 │
 ├─ frontend/
-│   ├─ components/
-│   ├─ pages/
-│   ├─ styles/
-│   └─ App.js
+│   ├─ components/           # Reusable React components
+│   ├─ pages/                # Page-level components
+│   ├─ styles/               # CSS/styling files
+│   └─ App.js                # Main React application
 │
 ├─ scripts/
-│   └─ setupAI.js
+│   └─ setupAI.js            # AI model initialization
 │
 ├─ config/
-│   └─ db.js
+│   └─ db.js                 # Database configuration
 │
-├─ .env
-├─ package.json
-└─ README.md
+├─ .env                      # Environment variables
+├─ package.json              # Project dependencies
+└─ README.md                 # Project documentation
 
 🛠 Tech Stack
-
-
-
-
-
-
-
+Frontend
+Show Image
+Show Image
+Show Image
+Backend
+Show Image
+Show Image
+Show Image
+AI & ML
+Show Image
+Show Image
+Show Image
+Security
+Show Image
+Show Image
 
 ⚙️ Installation
-# Clone the repository
+Prerequisites
+
+Node.js v18 or higher
+MongoDB installed and running
+npm or yarn package manager
+
+Steps
+bash# Clone the repository
 git clone https://github.com/Archana7224/APEX-An-AI-Powered-Digital-Decluttering-and-Prioritization-System-.git
 
 # Navigate to project directory
-cd declutter-prioritization
+cd APEX-An-AI-Powered-Digital-Decluttering-and-Prioritization-System-
 
 # Install dependencies
 npm install
 
-# Run development server
+# Create .env file and configure environment variables
+cp .env.example .env
+
+# Run database migrations (if applicable)
+npm run migrate
+
+# Start the development server
 npm run dev
+Environment Variables
+Create a .env file in the root directory with the following:
+envPORT=5000
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
+GMAIL_API_KEY=your_gmail_api_key
+OUTLOOK_API_KEY=your_outlook_api_key
+INSTAGRAM_API_KEY=your_instagram_api_key
+TWITTER_API_KEY=your_twitter_api_key
 
 💻 Usage
 
-Login to the dashboard.
+Login to the Dashboard
+Access the application at http://localhost:3000 and create an account.
+Connect Your Accounts
+Link your Gmail, Outlook, Instagram, X (Twitter), WhatsApp, and other accounts securely.
+View Analytics
+Navigate through different dashboards to view:
 
-Connect your accounts (Gmail, Outlook, Instagram, X, WhatsApp, etc.).
+Prioritized inbox
+Clutter-free social feeds
+Media cleanup suggestions
+Weekly declutter reports
 
-View prioritized inbox, clutter-free feeds, and declutter reports.
 
-Enable AI recommendations for cleanup and digital detox.
+Enable AI Recommendations
+Activate AI-powered suggestions for automated cleanup and digital detox reminders.
+
 
 📸 Screenshots
+Dashboard Overview
+Show Image
+Email Prioritization
+Show Image
+Media Cleanup
+Show Image
 
-Dashboard Overview:
-
-Email Prioritization:
-
-Media Cleanup:
-
+Note: Add actual screenshot images to your repository and update the paths above.
 
 
 👥 Team Members
-Name	Role
-Aaditya Kapoor	Team Lead & Frontend Developer
-Anshul Kushwaha	Documentation and PPT
-Aachal Patil	UI/UX Designer
-Archana Nair	Backend Developer
+NameRoleGitHubAaditya KapoorTeam Lead & Frontend Developer@aaditya-kapoorAnshul KushwahaDocumentation & Presentation@anshul-kushwahaAachal PatilUI/UX Designer@aachal-patilArchana NairBackend Developer@Archana7224
+
 🌟 Future Scope
 
-💬 Expand support to Slack, LinkedIn, Telegram
+💬 Expand Platform Support
+Integrate with Slack, LinkedIn, Telegram, and Discord.
+📱 Mobile Applications
+Launch native Android and iOS mobile apps for on-the-go management.
+🤖 AI Wellness Assistant
+Develop personalized habit tracking and recommendations based on usage patterns.
+🔔 Smart Notifications
+Context-aware notification management across all connected platforms.
+📊 Advanced Analytics
+Provide deeper insights into productivity patterns and digital behavior.
 
-📱 Launch Android/iOS mobile app
-
-🤖 Integrate AI wellness assistant for personalized habit tracking
 
 🤝 Contributing
+We welcome contributions from the community! Here's how you can help:
 
-We welcome contributions!
+Fork the Repository
+Click the 'Fork' button at the top right of this page.
+Create a Feature Branch
 
-Fork the repository
+bash   git checkout -b feature/your-feature-name
 
-Create a new branch (feature/your-feature)
+Commit Your Changes
 
-Commit your changes
+bash   git commit -m "Add: your feature description"
+
+Push to Your Branch
+
+bash   git push origin feature/your-feature-name
 
 Submit a Pull Request
+Open a PR with a clear description of your changes.
+
+Contribution Guidelines
+
+Follow the existing code style and conventions
+Write clear commit messages
+Add tests for new features
+Update documentation as needed
+Ensure all tests pass before submitting PR
+
 
 📜 License
-
 This project is licensed under the MIT License – free to use, modify, and distribute.
+See the LICENSE file for more details.
