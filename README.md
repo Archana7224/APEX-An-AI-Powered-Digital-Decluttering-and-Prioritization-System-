@@ -232,42 +232,8 @@ TWITTER_API_KEY=your_twitter_api_key
 - 📊 **Advanced Analytics**: Provide deeper insights into productivity patterns and digital behavior.
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-1. **Fork the Repository**  
-   Click the 'Fork' button at the top right of this page.
-
-2. **Create a Feature Branch**
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Commit Your Changes**
-   ```bash
-   git commit -m "Add: your feature description"
-   ```
-
-4. **Push to Your Branch**
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-5. **Submit a Pull Request**  
-   Open a PR with a clear description of your changes.
-
-**Contribution Guidelines**
-- Follow the existing code style and conventions
-- Write clear commit messages
-- Add tests for new features
-- Update documentation as needed
-- Ensure all tests pass before submitting PR
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License – free to use, modify, and distribute.  
 See the [LICENSE](LICENSE) file for more details.
+
